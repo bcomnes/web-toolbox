@@ -1,6 +1,6 @@
 {
   "name": "@bret/web-toolbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of web specific tools I like to use",
   "main": "index.js",
   "scripts": {
