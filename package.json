@@ -23,7 +23,7 @@
     "url": "https://github.com/bcomnes/web-toolbox/issues"
   },
   "homepage": "https://github.com/bcomnes/web-toolbox#readme",
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^9.0.0",
     "browserify": "^16.0.0",
     "budo": "^11.0.0",
